@@ -1,2 +1,2 @@
 # Autonomous-Learning
-Random projects I do in my own. Some are following tutorials
+Random projects I do on my own. Some are following tutorials
